@@ -1,1 +1,1 @@
-"# Stock-Stalker" 
+# Stock-Stalker
